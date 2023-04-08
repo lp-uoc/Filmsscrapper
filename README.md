@@ -1,6 +1,5 @@
 # Film Scrapper
 # Español
-## Descripción
 El código de este repositorio se ha generado en el contexto de la PRAC 1 de la asignatura de Tipología y ciclo de vida de los datos, durante el semestre Feb-2023 a Jun-2023.
 
 La estructura principal del código se basa en dos scripts desarrollados en Python, el primero main.py permite inicializar la llamada a IMDb para ir iterando elemento a elemento para obtener información de cada película. El fichero extractions.py por otro lado continene todas las funciones para extrar la información de cada div en la web permitiendo modificar exactamente el parámetro de extracción que queramos
