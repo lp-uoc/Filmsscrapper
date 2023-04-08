@@ -7,9 +7,9 @@ El código de este repositorio se ha generado en el contexto de la PRAC 1 de la 
 La actividad ha sido realizada conjuntamente por Eduardo Ranedo y Luis Piñuela
 
 ## Ficheros
-**src/main.py:** Contiene la lógica base del programa de scripting y es el fichero que tendremos que ejecutar para inicializar el scripting.
-**src/extractions.py:** Contiene las diferentes funciones que son llamadas por la clase main para poder extraer la información que se precisa.
-**csv/data.csv:** Datos extraidos desde IMDb en relación a las películas.
+* **src/main.py:** Contiene la lógica base del programa de scripting y es el fichero que tendremos que ejecutar para inicializar el scripting.
+* **src/extractions.py:** Contiene las diferentes funciones que son llamadas por la clase main para poder extraer la información que se precisa.
+* **csv/data.csv:** Datos extraidos desde IMDb en relación a las películas.
 
 ## Ejecución del Script
 
@@ -33,9 +33,9 @@ The code of this repository has been generated in the context of PRAC 1 of the T
 The activity has been carried out in collaboration with Eduardo Ranedo and Luis Piñuela.
 
 ## Files
-**src/main.py:** Contains the base logic of the scripting program and is the file that we will have to execute to initialize the scripting.
-**src/extractions.py:** Contains the different functions that are called by the main class to be able to extract the required information.
-**csv/data.csv:** Data extracted from IMDb in relation to the movies.
+* **src/main.py:** Contains the base logic of the scripting program and is the file that we will have to execute to initialize the scripting.
+* **src/extractions.py:** Contains the different functions that are called by the main class to be able to extract the required information.
+* **csv/data.csv:** Data extracted from IMDb in relation to the movies.
 
 
 ## Script execution
